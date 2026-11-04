@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+## I feel like ethics is about thinking how your actions affect others. When talking about ethics in AI, I think it's necessary to consider privacy and safety. Being in a field that literally revolves around technology, I feel obligated to make sure whatever I develop helps people and doesn't have any negative effects.
+
